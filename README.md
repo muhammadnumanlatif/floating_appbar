@@ -1,6 +1,9 @@
 # floating_appbar
 
 
+To make it easier for users to view a list of items, you might want to hide the app bar as the user scrolls down the list. This is especially true if your app displays a “tall” app bar that occupies a lot of vertical space.
+
+
 <table>
   <tr>
     <td>Output1</td>
